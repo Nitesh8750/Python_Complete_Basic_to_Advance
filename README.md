@@ -30,7 +30,7 @@ The repository is mapped into three specialized engines, allowing an interviewer
 
 ---
 
-### 🎯 2. [Questions /](https://www.google.com/search?q=./Questions/) — Algorithmic Processing Matrix
+### 🎯 2. [Questions /](./Questions/) — Algorithmic Processing Matrix
 
 *A diagnostic sandbox containing competitive coding problems solved systematically across distinct computational thresholds.*
 
@@ -42,7 +42,7 @@ The repository is mapped into three specialized engines, allowing an interviewer
 
 ---
 
-### 🏗️ 3. [Projects /](https://www.google.com/search?q=./Projects/) — Progressive Application Suite
+### 🏗️ 3. [Projects /](./Projects/) — Progressive Application Suite
 
 *End-to-end software modules where individual engineering pillars converge to build standalone, functional tools.*
 

@@ -1,9 +1,20 @@
 # 🐍 Python: Core Logic & Software Engineering Track
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
-  <img src="https://img.shields.io/badge/Architecture-OOP%20%7C%20Functional-success?style=for-the-badge" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge" alt="Status" />
+  <!-- Clicking Python opens your LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/nitesh-kumar-b08183244/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
+  </a>
+
+  <!-- Clicking Architecture jumps directly to your Projects folder in this repo -->
+  <a href="./Projects/">
+    <img src="https://img.shields.io/badge/Architecture-OOP%20%7C%20Functional-success?style=for-the-badge" alt="Architecture" />
+  </a>
+
+  <!-- Clicking Status takes the user down to your contact/collaboration section -->
+  <a href="#-lets-collaborate">
+    <img src="https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge" alt="Status" />
+  </a>
 </div>
 
 ### ⚡ The Objective
@@ -95,7 +106,7 @@ python -m Topics.functions_args
 
 **Nitesh Kumar**
 
-*Data Analyst & Software Logic Engineer*
+*Data Analyst & Python Developer*
 
 | Channel | Endpoint |
 | --- | --- |
